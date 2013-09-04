@@ -1,2 +1,4 @@
 rpackage
 ========
+
+Example R package
